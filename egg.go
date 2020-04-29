@@ -2,7 +2,6 @@ package main
 
 import (
 	"flag"
-	"fmt"
 	"image"
 	"image/jpeg"
 	"log"
@@ -50,9 +49,6 @@ func hatch(mom_egg image.Image, mom_egg_template string,
 	}
 	quadrant_height := mom_height / len(mom_egg_template)
 	quadrant_i := strings.Index(mom_egg_template, string(new_egg_template[0]))
-	println("quadrant_height", quadrant_height)
-	println("quadrant_i", quadrant_i)
-	fmt.Printf("%+v\n", mom_egg.Bounds())
 	quadrant := image.NewRGBA(image.Rect(0, 0, mom_width, quadrant_height))
 	for y := 0; y < quadrant_height; y++ {
 		for x := 0; x < mom_width; x++ {
