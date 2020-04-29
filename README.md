@@ -23,4 +23,4 @@ Usage of ./egg:
 ![](https://raw.githubusercontent.com/UpGado/egg/master/docs/bill.jpg)
 
 # bilgggates
-![](https://raw.githubusercontent.com/UpGado/egg/master/docs/bilgggates.jpg)
+![](https://raw.githubusercontent.com/UpGado/egg/master/docs/bilggatessss.jpg)
