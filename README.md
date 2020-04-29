@@ -1,4 +1,4 @@
-# egg
+
 ```
 Compile with:
    go build
@@ -13,8 +13,14 @@ Usage of ./egg:
   -template string
     	template for mom egg (default "egg")
 ```
-      
+# egg     
 ![](https://raw.githubusercontent.com/UpGado/egg/master/docs/egg.jpg)
 
 # eeeeg
 ![](https://raw.githubusercontent.com/UpGado/egg/master/docs/eeeeg.jpg)
+
+# bill gates     
+![](https://raw.githubusercontent.com/UpGado/egg/master/docs/bill.jpg)
+
+# bilgggates
+![](https://raw.githubusercontent.com/UpGado/egg/master/docs/bilgggates.jpg)
